@@ -25,7 +25,7 @@ Formada em Técnico em Administração, RH e Contabilidade, cursando Administra�
 
 ---
 
-## Projeto Prático – Otimização de Vendas Fora da Temporada – [Nome da Loja]
+## Projeto Prático – Otimização de Vendas Fora da Temporada – Mini 25
 
 **Objetivo:**  
 Manter o desempenho da loja em períodos fora da alta temporada, aumentando vendas, engajamento de clientes e percepção de qualidade, enquanto exploro novas formas de consumo.
