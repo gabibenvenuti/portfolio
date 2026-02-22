@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Experiência em varejo, estratégias de vendas e melhoria de processos operacionais.
 # Portfólio Profissional – [Seu Nome]
 
