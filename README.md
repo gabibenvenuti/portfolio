@@ -1,6 +1,6 @@
 # Portfolio
 Experiência em varejo, estratégias de vendas e melhoria de processos operacionais.
-# Portfólio Profissional – [Seu Nome]
+# Portfólio Profissional – Gabriela Benvenuti
 
 **Gerente de Varejo | Administração | CPA-20 – ANBIMA**
 
